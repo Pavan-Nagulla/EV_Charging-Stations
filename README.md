@@ -1,10 +1,10 @@
 # EV_Charging-Stations
-For Web development,we used:
-Front-end language:Html,Css, Javascript
-Backend-end language:Django
-Database:Mysql
+For Web development,we used:<br>
+Front-end language:Html,Css, Javascript<br>
+Backend-end language:Django<br>
+Database:Mysql<br>
 ![Screenshot (56)](https://user-images.githubusercontent.com/76057440/160963606-1983f15a-10c6-42ac-a5f6-2e086191e99f.png)
-
+<br>
 App design for Ev Charging stations location:
 
 
