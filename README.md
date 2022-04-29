@@ -8,7 +8,7 @@ Database : Mysql <br>
 ![Screenshot (56)](https://user-images.githubusercontent.com/76057440/160963606-1983f15a-10c6-42ac-a5f6-2e086191e99f.png)
 <br>
 <br>
-App design for Ev Charging stations location:<br.
+App design for Ev Charging stations location:<br>
 UI/UX : Figma<br>
 Programming Language: Java,Kotlin<br>
 Database : Firebase<br>
